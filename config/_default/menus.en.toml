@@ -1,0 +1,17 @@
+[[main]]
+  identifier = "Zzo"
+  name = "Zzo theme"
+  url = "zzo"
+  weight = 1
+
+[[main]]
+  identifier = "Zdoc"
+  name = "Zdoc theme"
+  url = "zdoc"
+  weight = 2
+
+[[main]]
+  identifier = "Blog"
+  name = "Blog"
+  url = "blog"
+  weight = 3

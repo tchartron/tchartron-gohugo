@@ -1,4 +1,4 @@
-baseURL = "tchartron.github.io"
+baseURL = "/"
 languageCode = "en-us"
 title = "Thomas Chartron"
 theme = "zdoc"

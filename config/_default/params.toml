@@ -1,7 +1,7 @@
 logo = true
-logoText = "Z Themes"
+logoText = "Thomas Chartron"
 logoType = "short" # long, short
-description = "The Zzo theme documentation site."
+description = "Thomas Chartron personnal blog"
 editBaseURL = "https://github.com/zzossig/zzoDocs/blob/master/content"
 themeOptions = ["light", "dark"]
 
@@ -29,9 +29,9 @@ paginateWindow = 1
 taxoPaginate = 13
 taxoGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
 
-github = "https://github.com/zzossig/hugo-theme-zzo"
+github = "https://github.com/tchartron/"
 
 enableComment = false
 [utterances]       # https://utteranc.es/
-  owner = "zzossig"              # Your GitHub ID
-  repo = "zzoDocs"               # The repo to store comments
+  owner = "tchartron"              # Your GitHub ID
+  repo = "tchartron"               # The repo to store comments

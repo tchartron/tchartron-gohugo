@@ -1,12 +1,12 @@
 [en]
-  title = "Z Themes Documentation"
+  title = "Thomas Chartron"
   languageName = "English"
   weight = 1
   languagedir = "ltr"
   contentdir = "content/en"
 
 [fr]
-  title = "Z Themes Documentation"
+  title = "Thomas Chartron"
   languageName = "French"
   weight = 2
   languagedir = "ltr"

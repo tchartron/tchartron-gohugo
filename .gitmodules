@@ -1,3 +1,7 @@
 [submodule "themes/zdoc"]
 	path = themes/zdoc
 	url = git@github.com:tchartron/gohugo-theme-zdoc.git
+[submodule "public"]
+	path = public
+	url = git@github.com:tchartron/tchartron.github.io.git
+	branch = main

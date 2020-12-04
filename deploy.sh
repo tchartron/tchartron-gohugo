@@ -7,7 +7,7 @@ if [ -d "public" ]
 then
     printf "\033[0;32mRemoving public folder except .git to keep the submodule...\033[0m\n"
     cd public
-    find . -not -name '.git' -delete
+    find . -not -name '.git' -not -name 'README.md' -delete
     cd ..
 fi
 
@@ -15,7 +15,7 @@ printf "\033[0;32mDeploying updates to GitHub pages...\033[0m\n"
 
 # Build the project.
 # hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
-hugo -t hfng-tc
+hugo -t zdoc
 
 # Go To Public folder
 cd public

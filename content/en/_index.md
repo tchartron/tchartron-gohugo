@@ -6,7 +6,7 @@ draft: false
 
 landing:
   height: 500
-  image: favicon/android-icon-192x192.png
+  image: images/avatar.png
   title:
     - Thomas Chartron
   text:
@@ -15,11 +15,11 @@ landing:
   textColor:
   spaceBetweenTitleText: 25
   buttons:
-    - link: zzo
-      text: HUGO THEME ZZO
+    - link: about
+      text: About me
       color: primary
-    - link: zdoc
-      text: HUGO THEME ZDOC
+    - link: blog
+      text: Personnal blog
       color: default
   # backgroundImage: 
   #   src: images/landscape.jpg

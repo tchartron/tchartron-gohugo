@@ -8,9 +8,9 @@ landing:
   height: 500
   image: favicon/android-icon-192x192.png
   title:
-    - Z Themes
+    - Thomas Chartron
   text:
-    - This is Hugo Z Themes documentation site
+    - Web Developer
   titleColor:
   textColor:
   spaceBetweenTitleText: 25

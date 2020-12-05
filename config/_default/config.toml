@@ -1,6 +1,6 @@
 baseURL = "/" # The URL of your site.
 languageCode = "fr-fr"
-title = "Thomas Chartron" # Title of your site
+title = "tchartron"
 theme = "zdoc" # Name of Zzo theme folder in `themes/`.
 
 defaultContentLanguage = "en" # Default language to use (if you setup multilingual)

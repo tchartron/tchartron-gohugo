@@ -1,5 +1,5 @@
 logo = true
-logoText = "Thomas Chartron"
+logoText = "tchartron"
 logoType = "short" # long, short
 description = "Thomas Chartron personnal blog"
 editBaseURL = "https://github.com/zzossig/zzoDocs/blob/master/content"
